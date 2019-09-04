@@ -1,0 +1,9 @@
+#+TITLE: React Intro
+* Setup
+** Install `nvm`
+** `nvm use stable`
+** `npx create-react-app intro`
+** Delete files under `src`: `rm -rf src/*`
+** add index.css and index.js
+** `npm start`
+** Install React Developer Tools (browser)
