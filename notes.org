@@ -1,5 +1,5 @@
 #+TITLE: React Intro
-* Setup
+* React
 ** Install `nvm`
 ** `nvm use stable`
 ** `npx create-react-app intro`
@@ -7,3 +7,8 @@
 ** add index.css and index.js
 ** `npm start`
 ** Install React Developer Tools (browser)
+* Redux
+** npx create-react-app redux-intro
+** npm install -save redux
+** npm install -save react-redux
+** npm install --save-dev redux-devtools
